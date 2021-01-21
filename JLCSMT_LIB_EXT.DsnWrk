@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\JLCSMT_LIB\Miscellaneous Devices LC.LibPkg
+[Project2]
+ProjectPath=Miscellaneous Devices LC EXT.LibPkg
