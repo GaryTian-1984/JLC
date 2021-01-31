@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FNGFJMWR
 
 [SearchPath1]
-Path=..\*.*
+Path=..\..\*.*
 IncludeSubFolders=1
 
 [Generic_IntLibOptions]
